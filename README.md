@@ -7,7 +7,7 @@ Public landing page, user guides, privacy policy and support information for **L
 - [Privacy policy](https://ringlochid.me/leotabs/privacy/)
 - [Support](https://ringlochid.me/leotabs/support/)
 
-The Chrome Web Store release is in preparation. The extension source repository remains private until launch; this repository contains only the public website and documentation.
+[Install LeoTabs from the Chrome Web Store](https://chromewebstore.google.com/detail/leotabs/heolckkdeandgagkiefggcneodniojhb). This repository contains the public website and documentation.
 
 ## Website files
 
@@ -15,6 +15,6 @@ This is a ready-to-serve static website. Preview it with any local static web se
 
 The site is published under `leotabs/` in the domain's `ringlochid.github.io` repository to retain the address above. That repository runs the GitHub Pages deployment. Website updates must be copied there after they have been reviewed here. Keep the domain's other pages and configuration unchanged.
 
-The library and switcher screenshots are original captures approved by the developer for this site. Source files carry the MPL-2.0 license; see [LICENSE.txt](LICENSE.txt).
+The library and switcher screenshots are original captures approved by the developer for this site. Source files carry the MPL-2.0 license; see [LICENSE.txt](LICENSE.txt). The GitHub mark comes from Primer Octicons under its [MIT licence](assets/octicons-LICENSE.txt).
 
 Questions and security reports: [support@ringlochid.me](mailto:support@ringlochid.me).
