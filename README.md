@@ -1,13 +1,19 @@
 # LeoTabs website
 
-Public landing page, user guides, privacy policy and support information for **LeoTabs — Tab Manager & Switcher**.
+Public website and guides for **LeoTabs**, a free, open-source tab and bookmark organizer for Chrome and Edge. Save project collections, search saved links, and reopen your browsing work.
 
 - [Website](https://ringlochid.me/leotabs/)
 - [User guide](https://ringlochid.me/leotabs/docs/)
+- [Save and reopen browser tabs](https://ringlochid.me/leotabs/docs/saving-switching/)
+- [Organize tabs and bookmarks by project](https://ringlochid.me/leotabs/docs/library/)
+- [Import OneTab, Toby or browser bookmarks](https://ringlochid.me/leotabs/docs/migrate-tabs/)
+- [Export tabs to Notion](https://ringlochid.me/leotabs/docs/notion/)
 - [Privacy policy](https://ringlochid.me/leotabs/privacy/)
 - [Support](https://ringlochid.me/leotabs/support/)
 
 [Install LeoTabs from the Chrome Web Store](https://chromewebstore.google.com/detail/leotabs/heolckkdeandgagkiefggcneodniojhb). This repository contains the public website and documentation.
+
+The [extension and website source](https://github.com/ringlochid/leotabs) live in the main LeoTabs repository. Make content and metadata changes there, then publish the generated website here. The [sitemap](https://ringlochid.me/leotabs/sitemap.xml) lists the preferred public URLs.
 
 ## Website files
 
